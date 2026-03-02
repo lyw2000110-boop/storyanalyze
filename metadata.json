@@ -1,0 +1,5 @@
+{
+  "name": "故事编译器StoryAnalyzer",
+  "description": "An AI-powered manuscript analysis tool that extracts characters, outlines, and world-building inspirations from your documents.",
+  "requestFramePermissions": []
+}
